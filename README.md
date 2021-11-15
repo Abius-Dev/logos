@@ -6,6 +6,5 @@
 ## Наш стандарт <img src="Наш стандарт.png">
 ***
 ## Обои со слоганом <img src="Обои со слоганом.png">
-<!--##<img src="">
-##<img src="">
+## ASN <img src="/abius+asn.png">
 ##<img src="">-->
